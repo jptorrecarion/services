@@ -1,4 +1,5 @@
 import React from 'react';
+import burial from './kalapati.jpg'
 
 const home = () =>{
     let a = {
@@ -15,10 +16,41 @@ const home = () =>{
         boxShadow : '3px 3px 3px black'
     };
     
+    let img = {
+        height:  '200px',
+        width : '200px',
+        borderRadius : '100px',
+        boxShadow : '0px 0px 30px black'
+        
+    }
+    
+    let sample = {
+        color : 'white',
+        backgroundImage: `url(${burial})` ,
+        backgroundPosition : 'center',
+        backgroundSize : 'cover',
+       
+    }
+    
+    
     
     return(
         <div >
+        
             <div  className='container '>
+        <section className='jumbotron text-center' style = { sample }>
+            <h1 className ='mb-5'>Hi im John paul Torrecarion,</h1>
+            <img src={ require('./jp.png') } alt = 'profile' style = { img }/>
+        <p className = 'mt-4'>I love access commodo amet, aut magna qui amet.
+
+        Ingeniis imitarentur in consequat, dolor comprehenderit litteris quid excepteur.
+
+        Eiusmod ubi legam deserunt si minim cohaerescant officia magna fabulas.
+
+        De ea duis tamen quis, te fugiat cillum nam mentitum.
+
+        E id dolore malis quorum ubi laborum id quamquam.</p>
+        </section>
         <div className='row' style = {b}>
         <section className ='col-md-6'>
         <div id="carouselExampleIndicators" className="carousel slide" data-ride="carousel">

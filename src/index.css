@@ -39,8 +39,12 @@ code {
 }
 #brand a{
     font-weight: bold;
-    font-size: 50px !important;
-    letter-spacing: -5px;
+    font-size: 30px !important;
+   
+}
+
+.jumbotron{
+    background: linear-gradient(to top , #f1f1f1 , white ,white, white , #f1f1f1);
 }
 
 #compSmall{
