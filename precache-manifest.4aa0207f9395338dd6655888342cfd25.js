@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/services/static/media/kalapati.39721d1f.jpg"
   },
   {
-    "revision": "afefe65c5f829d14b01e",
+    "revision": "6fbbe5972cfa9ba87d1e",
     "url": "/services/static/css/main.099fba6b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/services/static/media/jp.88b16ff1.docx"
   },
   {
-    "revision": "afefe65c5f829d14b01e",
-    "url": "/services/static/js/main.afefe65c.chunk.js"
+    "revision": "6fbbe5972cfa9ba87d1e",
+    "url": "/services/static/js/main.6fbbe597.chunk.js"
   },
   {
     "revision": "3a3de718225a841ae4cc54d479ec8391",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/services/static/media/jp.5a7c6da8.png"
   },
   {
-    "revision": "0bbb74d27bf794cc343c1d0c9634b0f6",
+    "revision": "d30071a2d6fea4524cd6400635e69ffd",
     "url": "/services/index.html"
   }
 ];

@@ -1,7 +1,7 @@
 {
   "main.css": "/services/static/css/main.099fba6b.chunk.css",
-  "main.js": "/services/static/js/main.afefe65c.chunk.js",
-  "main.js.map": "/services/static/js/main.afefe65c.chunk.js.map",
+  "main.js": "/services/static/js/main.6fbbe597.chunk.js",
+  "main.js.map": "/services/static/js/main.6fbbe597.chunk.js.map",
   "static/js/1.774eb910.chunk.js": "/services/static/js/1.774eb910.chunk.js",
   "static/js/1.774eb910.chunk.js.map": "/services/static/js/1.774eb910.chunk.js.map",
   "runtime~main.js": "/services/static/js/runtime~main.d326f574.js",
@@ -14,6 +14,6 @@
   "static/media/kalapati.jpg": "/services/static/media/kalapati.39721d1f.jpg",
   "static/css/main.099fba6b.chunk.css.map": "/services/static/css/main.099fba6b.chunk.css.map",
   "index.html": "/services/index.html",
-  "precache-manifest.cda7b7269bd9e1f893b5488cdc54508c.js": "/services/precache-manifest.cda7b7269bd9e1f893b5488cdc54508c.js",
+  "precache-manifest.4aa0207f9395338dd6655888342cfd25.js": "/services/precache-manifest.4aa0207f9395338dd6655888342cfd25.js",
   "service-worker.js": "/services/service-worker.js"
 }
